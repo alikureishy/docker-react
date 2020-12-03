@@ -1,0 +1,1 @@
+docker build -t alikureishy/multi-client -f ./client/Dockerfile .client
